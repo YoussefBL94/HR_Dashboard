@@ -1,5 +1,6 @@
 # [HR Dashboard](https://public.tableau.com/app/profile/youssef.ben.laroussi/viz/Hr_dashboard_17279054407360/HR-Summary)
 
+![](HRshot.png)
 
 ## *Overview*
 This project involves creating an interactive HR dashboard using a dataset generated with AI. The dashboard is designed to provide insights into key HR metrics such as employee demographics, salary, hire dates, termination dates, and education levels, enabling effective data-driven decision-making.
